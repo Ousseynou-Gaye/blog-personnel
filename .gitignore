@@ -1,0 +1,11 @@
+blog-backend/venv/
+blog-backend/__pycache__/
+blog-backend/models/__pycache__/
+blog-backend/routes/__pycache__/
+blog-backend/instance/
+blog-backend/*.db
+blog-frontend/node_modules/
+blog-frontend/dist/
+l3-ds-2026/
+ES7 +react.txt
+React - Projet Blog Personnel ISI.pdf
