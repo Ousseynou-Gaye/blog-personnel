@@ -1,0 +1,5 @@
+blog-backend/venv/
+blog-backend/__pycache__/
+blog-backend/*.db
+blog-frontend/node_modules/
+blog-frontend/dist/
